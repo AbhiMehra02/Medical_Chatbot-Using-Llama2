@@ -3,7 +3,7 @@
 ## steps to run the Project
 
 ```bash
-conda create -nchatbot python=3.11 -y
+conda create -mchatbot python=3.11 -y
 ```
 
 ```bash
