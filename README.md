@@ -2,10 +2,10 @@
 
 ## steps to run the Project
 
-'''bash
+```bash
 conda create -nchatbot python=3.11 -y
-'''
+```
 
-'''bash
+```bash
 conda activate mchatbot
-'''
+```
